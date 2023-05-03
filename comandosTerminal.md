@@ -22,11 +22,11 @@ pwd
 
    |SINTAXIS| pwd |option|
 
-   |OPTIONS|		
+   |OPTIONS|		  	
    
-   	-L : Muestra el directorio actual con enlace simbólico.
+   	-L : Muestra el directorio actual con enlace simbólico
 	
- 	-P : Muestra la dirección real (?).
+ 	-P : Muestra la dirección real (?)
 
 uname 
 : Muestra en pantalla el nombre del sistema operativo.
