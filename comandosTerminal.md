@@ -22,15 +22,19 @@ pwd
 
    |SINTAXIS| pwd |option|
 
-    |OPTIONS|
-		-L : Muestra el directorio actual con enlace simbólico.
-	 	-P : Muestra la dirección real (?).
+   |OPTIONS|		
+   
+   	-L : Muestra el directorio actual con enlace simbólico.
+ 	-P : Muestra la dirección real (?).
 
 uname 
-	|DESCRIPCIÓN| Muestra en pantalla el nombre del sistema operativo.
-	|SINTAXIS| uname [option]
-	|OPTIONS|
-		-a: Muestra en pantallla el sistema operativo y la arquitectura del sistema.
+: Muestra en pantalla el nombre del sistema operativo.
+
+   |SINTAXIS| uname [option]
+
+   |OPTIONS|
+
+	-a: Muestra en pantallla el sistema operativo y la arquitectura del sistema.
 
 ls 
 	|DESCRIPCIÓN| Permite listar el contenido de un directorio.
