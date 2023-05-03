@@ -22,7 +22,7 @@ pwd
 
    |SINTAXIS| pwd |option|
 
-   |OPTIONS|		  	
+   |OPTIONS|
    
    		-L : Muestra el directorio actual con enlace simbólico
 	
