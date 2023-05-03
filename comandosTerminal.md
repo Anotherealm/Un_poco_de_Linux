@@ -20,7 +20,7 @@ whoami
 pwd 
 : Muestra en pantalla la ruta del directorio de trabajo actual.
 
-   |SINTAXIS| pwd [option] 
+   |SINTAXIS| pwd |option|
 
     |OPTIONS|
 		-L : Muestra el directorio actual con enlace simbólico.
