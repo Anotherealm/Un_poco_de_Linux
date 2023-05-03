@@ -38,14 +38,21 @@ uname
 	-a: Muestra en pantallla el sistema operativo y la arquitectura del sistema.
 
 ls 
-	|DESCRIPCIÓN| Permite listar el contenido de un directorio.
-	|SINTAXIS| ls [option] <directorio-a-listar>
-	|OPTIONS|
-		-l Permite el formato de listado largo, mostrando información de los contenidos del directorio
-		-a Permite listar los archivos ocultos del directorio. Los nombres de los directorios ocultos comienzan con un "."
-		-h Permite una lectura más sencilla para conocer el espacio ocupado por los contenidos del directorio
-		-r Invierte el orden del listado
-		-i Muestra el número 		
+: Permite listar el contenido de un directorio.
+
+   |SINTAXIS| ls [option] <directorio-a-listar>
+
+   |OPTIONS|
+
+	-l Permite el formato de listado largo, mostrando información de los contenidos del directorio
+	
+	-a Permite listar los archivos ocultos del directorio. Los nombres de los directorios ocultos comienzan con un "."
+	
+	-h Permite una lectura más sencilla para conocer el espacio ocupado por los contenidos del directorio		
+	
+	-r Invierte el orden del listado
+	
+	-i Muestra el número 		
 
 cd
 	|DESCRIPCIÓN| Permite cambiar el directorio de trabajo actual, por el directorio indicado.
