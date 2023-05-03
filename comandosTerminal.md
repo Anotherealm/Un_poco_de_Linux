@@ -10,7 +10,6 @@
 	   |_|\___|_| |_|_|_|_|_||_\__,_|_|   
 
 ---
----
 
 
 whoami 
@@ -19,9 +18,11 @@ whoami
    |SINTAXIS| whoami
 
 pwd 
-	|DESCRIPCION| Muestra en pantalla la ruta del directorio de trabajo actual.
-	|SINTAXIS| pwd [option] 
-	|OPTIONS|
+: Muestra en pantalla la ruta del directorio de trabajo actual.
+
+   |SINTAXIS| pwd [option] 
+
+    |OPTIONS|
 		-L : Muestra el directorio actual con enlace simbólico.
 	 	-P : Muestra la dirección real (?).
 
