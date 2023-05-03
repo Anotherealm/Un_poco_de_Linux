@@ -1,5 +1,6 @@
 
 ---
+
    ___                        _        
   / __|___ _ __  __ _ _ _  __| |___ ___
  | (__/ _ \ '  \/ _` | ' \/ _` / _ (_-<
@@ -7,12 +8,14 @@
  |_   _|__ _ _ _ __ (_)_ _  __ _| |    
    | |/ -_) '_| '  \| | ' \/ _' | |    
    |_|\___|_| |_|_|_|_|_||_\__,_|_|   
+
 ---
 
 
 whoami 
 : Permite conocer el usuario que se esta utilizando.
-|SINTAXIS| whoami
+
+   |SINTAXIS| whoami
 
 pwd 
 	|DESCRIPCION| Muestra en pantalla la ruta del directorio de trabajo actual.
