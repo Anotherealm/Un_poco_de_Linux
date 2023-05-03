@@ -40,7 +40,7 @@ uname
 ls 
 : Permite listar el contenido de un directorio.
 
-   |SINTAXIS| ls [option] <directorio-a-listar>
+   |SINTAXIS| ls |option| |directorio-a-listar|
 
    |OPTIONS|
 
