@@ -22,7 +22,7 @@ pwd
 
    |SINTAXIS| pwd |option|
 
-   	|OPTIONS|		  	
+   |OPTIONS|		  	
    
    		-L : Muestra el directorio actual con enlace simbólico
 	
@@ -33,7 +33,7 @@ uname
 
    |SINTAXIS| uname [option]	   
    
-   	|OPTIONS|
+   |OPTIONS|
 	
 		-a: Muestra en pantallla el sistema operativo y la arquitectura del sistema.
 
@@ -42,7 +42,7 @@ ls
 
    |SINTAXIS| ls |option| |directorio-a-listar|
 
-   	|OPTIONS|
+   |OPTIONS|
 
 		-l Permite el formato de listado largo, mostrando información de los contenidos del directorio
 	
