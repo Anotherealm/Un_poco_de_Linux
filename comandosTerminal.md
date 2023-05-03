@@ -22,41 +22,43 @@ pwd
 
    |SINTAXIS| pwd |option|
 
-   |OPTIONS|		  	
+   	|OPTIONS|		  	
    
-   	-L : Muestra el directorio actual con enlace simbólico
+   		-L : Muestra el directorio actual con enlace simbólico
 	
- 	-P : Muestra la dirección real (?)
+ 		-P : Muestra la dirección real (?)
 
 uname 
 : Muestra en pantalla el nombre del sistema operativo.
 
-   |SINTAXIS| uname [option]
-
-   |OPTIONS|
-
-	-a: Muestra en pantallla el sistema operativo y la arquitectura del sistema.
+   |SINTAXIS| uname [option]	   
+   
+   	|OPTIONS|
+	
+		-a: Muestra en pantallla el sistema operativo y la arquitectura del sistema.
 
 ls 
 : Permite listar el contenido de un directorio.
 
    |SINTAXIS| ls |option| |directorio-a-listar|
 
-   |OPTIONS|
+   	|OPTIONS|
 
-	-l Permite el formato de listado largo, mostrando información de los contenidos del directorio
+		-l Permite el formato de listado largo, mostrando información de los contenidos del directorio
 	
-	-a Permite listar los archivos ocultos del directorio. Los nombres de los directorios ocultos comienzan con un "."
+		-a Permite listar los archivos ocultos del directorio. Los nombres de los directorios ocultos comienzan con un "."
 	
-	-h Permite una lectura más sencilla para conocer el espacio ocupado por los contenidos del directorio		
+		-h Permite una lectura más sencilla para conocer el espacio ocupado por los contenidos del directorio		
 	
-	-r Invierte el orden del listado
+		-r Invierte el orden del listado
 	
-	-i Muestra el número 		
+		-i Muestra el número 		
 
 cd
-	|DESCRIPCIÓN| Permite cambiar el directorio de trabajo actual, por el directorio indicado.
-	|SINTAXIS| cd [option] <directorio-a-cambiar>
+: Permite cambiar el directorio de trabajo actual, por el directorio indicado.
+	
+   |SINTAXIS| cd [option] <directorio-a-cambiar>
+	
 	1. Si se utiliza cd sin un indicar un directorio-a-cambiar, redirige al directorio HOME.
 	2. Si se utiliza cd <..>, el directorio de trabajo se dirije al directorio superior de la jerarquía.
 	3. Si se utiliza cd <->, el directorio de trabajo se redirije al anterior fichero ingresado ($OLDPWD).
