@@ -25,6 +25,7 @@ pwd
    |OPTIONS|		
    
    	-L : Muestra el directorio actual con enlace simbólico.
+	
  	-P : Muestra la dirección real (?).
 
 uname 
