@@ -18,7 +18,7 @@ Para iniciar, y respetando las buenas prácticas, se debe indicar la ruta comple
 intérprete de comandos, antecedido por los caracteres *#!*. Para bash la ruta absoluta 
 corresponde a **/bin/bash**. Esto se conoce como *shebang*
 
-```
+```bash
 
 #! /bin/bash
 
