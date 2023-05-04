@@ -39,7 +39,7 @@ simples.
 
 ```bash
 
-`Estas son múltiples
+: `Estas son múltiples
 lineas de comentarios
 en un script de Bash´
 
