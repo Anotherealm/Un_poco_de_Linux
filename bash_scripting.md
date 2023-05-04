@@ -12,7 +12,7 @@
 de comandos en un shell basado en Unix. Permite escribir scripts sencillos para *automatizar tareas,
 procesar datos, entre otros*. 
 
-Los scripts pueden contener variables, bucles, condicionales, funciones y otros elementos que 
+Los scripts pueden *contener variables, bucles, condicionales, funciones* y otros elementos que 
 se encuentran en los lenguajes de programación tradicionales.
 
 ### Crear archivo ejecutable
