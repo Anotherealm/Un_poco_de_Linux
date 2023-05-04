@@ -35,11 +35,11 @@ corresponde a **/bin/bash**. Esto se conoce como *shebang*
 Al crear un archivo.sh, por defecto, no se tendrá los permisos para poder ejecutarlo.
 Para esto debemos cambiar sus permisos por medio del comando **chmod**.
 
-'''bash
+```bash
 
 $ chmod +x archivo.sh
 
-'''
+```
 
 ### Comentarios en código   
         
