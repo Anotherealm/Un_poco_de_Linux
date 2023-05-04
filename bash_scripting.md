@@ -8,6 +8,12 @@
         	   /_/              /___/  
 
 ---
+**Bash script** es un lenguaje de scripting que se utiliza para escribir scripts o secuencias 
+de comandos en un shell basado en Unix. Permite escribir scripts sencillos para --automatizar tareas,
+procesar datos, entre otros--. 
+
+Los scripts pueden contener variables, bucles, condicionales, funciones y otros elementos que 
+se encuentran en los lenguajes de programación tradicionales.
 
 ### Crear archivo ejecutable
 
@@ -48,7 +54,7 @@ en un script de Bash
 echo "Hola Mundo"
 
 ```
-
+El script anterior solo tendrá como salida "Hola Mundo".
 
 
 
