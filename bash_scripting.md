@@ -34,8 +34,8 @@ comentario que se desea agregar.
 
 ```
 
-Si se requiere añadir más comentaerios, se puede insertar el comentario dentro de comillas
-simples.
+Si se requiere añadir más comentarios, se puede insertar el comentario dentro de comillas
+simples **'**, antecedido por el signo **:**
 
 ```bash
 
@@ -44,6 +44,8 @@ Estas son múltiples
 lineas de comentarios
 en un script de Bash
 '
+
+echo "Hola Mundo"
 
 ```
 
