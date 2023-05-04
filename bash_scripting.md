@@ -30,6 +30,17 @@ corresponde a **/bin/bash**. Esto se conoce como *shebang*
 
 ```
 
+### Ejecutar Script
+
+Al crear un archivo.sh, por defecto, no se tendrá los permisos para poder ejecutarlo.
+Para esto debemos cambiar sus permisos por medio del comando **chmod**.
+
+'''bash
+
+$ chmod +x archivo.sh
+
+'''
+
 ### Comentarios en código   
         
 Para añadir comentarios en Bash Script se debe utilizar el signo numeral **#** seguido del
