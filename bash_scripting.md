@@ -39,9 +39,11 @@ simples.
 
 ```bash
 
-<< `Estas son múltiples
-   lineas de comentarios
-   en un script de Bash´
+: '
+Estas son múltiples
+lineas de comentarios
+en un script de Bash
+'
 
 ```
 
