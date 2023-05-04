@@ -9,8 +9,8 @@
 
 ---
 **Bash script** es un lenguaje de scripting que se utiliza para escribir scripts o secuencias 
-de comandos en un shell basado en Unix. Permite escribir scripts sencillos para --automatizar tareas,
-procesar datos, entre otros--. 
+de comandos en un shell basado en Unix. Permite escribir scripts sencillos para *automatizar tareas,
+procesar datos, entre otros*. 
 
 Los scripts pueden contener variables, bucles, condicionales, funciones y otros elementos que 
 se encuentran en los lenguajes de programación tradicionales.
