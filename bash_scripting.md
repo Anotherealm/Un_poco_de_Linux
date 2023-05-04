@@ -37,7 +37,7 @@ Para esto debemos cambiar sus permisos por medio del comando **chmod**.
 
 ```bash
 
-$ chmod +x archivo.sh
+sudo chmod +x archivo.sh
 
 ```
 
