@@ -24,6 +24,27 @@ corresponde a **/bin/bash**. Esto se conoce como *shebang*
 
 ```
 
+### Comentarios en código   
+        
+Para añadir comentarios en Bash Script se debe utilizar el signo numeral **#** seguido de el
+comentario que se desea agregar.
+        
+````bash
+# Esto es un comentario en Bash Script
+   
+```
+
+Si se requiere añadir más comentaerios, se puede insertar el comentario dentro de comillas
+simples.
+
+```bash
+
+`Estas son múltiples
+lineas de comentarios
+en un script de Bash´
+
+```
+
 
 
 
