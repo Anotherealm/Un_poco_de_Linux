@@ -68,7 +68,6 @@ Si se requiere añadir más comentarios, se puede insertar el comentario dentro 
 simples **'**, antecedido por el signo **:**
 
 ```bash
-
 : '
 Estas son múltiples
 lineas de comentarios
@@ -76,9 +75,53 @@ en un script de Bash
 '
 
 echo "Hola Mundo"
-
 ```
 Al ejecutar el script anterior solo se obtendrá la salida "Hola Mundo".
 
 
+### Condicionales
 
+Las condicionales son estructuras de control que permiten que nuestro 
+script tome diferentes caminos o acciones en base a una evaluación lógica.
+
+La sintaxis básica de una condicional es la siguiente:
+
+```bash
+if [ condición-a-evaluar ]; 
+then
+  # Acciones a realizar si la condición es verdadera
+fi
+```
+- **if** se utiliza para indicar el inicio de la condicional.
+- Entre los corchetes es señalada la condición a evaluar.
+- **then** es utilizado para iniciar el bloque de código a ejecutar, 
+solo si la condición *if* es **verdadera**.
+- **fi** indica el final de la estructura de control.
+ 
+Puede indicarse otra condición, la cuál se ejecutará sólo si la
+condición *if* resulte falsa. Para esto, se utiliza la palabra **else**
+
+```bash
+if [ condición ]; then
+  # Acciones a realizar si la condición es verdadera
+else
+  # Acciones a realizar si la condición if es falsa
+fi
+```
+
+Además, se puede utilizar varias condiciones, utilizando la 
+palabra **elif**
+
+```bash
+if [ condición 1 ]; then
+  # Acciones a realizar si la condición 1 es verdadera
+elif [ condición 2 ]; then
+  # Acciones a realizar si la condición 2 es verdadera
+else
+  # Acciones a realizar si todas las condiciones son falsas
+fi
+```
+
+Es necesario aclarar que el script solo ejecutará la primera 
+condición que resulte verdadera. Si todas las condiciones resultan
+falsas, entonces sólo será ejecutado el bloque de código "else"
