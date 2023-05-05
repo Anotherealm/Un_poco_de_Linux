@@ -15,9 +15,9 @@ procesar datos, entre otros*.
 Los scripts pueden *contener variables, bucles, condicionales, funciones* y otros elementos que 
 se encuentran en los lenguajes de programación tradicionales.
 
-### Crear archivo ejecutable
+### Crear un Bash Script
 
-Para crear un scripting en Bash se debe crear un archivo con formato *.sh*. El archivo puede 
+Para crear un Bash Script primero debemos crear un archivo con formato *.sh*. El archivo puede 
 ser editado con cualquier editor de texto que se desee.
 
 Para iniciar, y respetando las buenas prácticas, se debe indicar la ruta completa del 
