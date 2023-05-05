@@ -32,14 +32,27 @@ corresponde a **/bin/bash**. Esto se conoce como *shebang*
 
 ### Ejecutar Script
 
-Al crear un archivo.sh, por defecto, no se tendrá los permisos para poder ejecutarlo.
+Al crear un archivo.sh, por defecto, no se tendran los permisos para poder ejecutarlo.
 Para esto debemos cambiar sus permisos por medio del comando **chmod**.
 
 ```bash
 
-sudo chmod +x archivo.sh
+sudo chmod +x nombre_script.sh
 
 ```
+
+El comando *chmod* permite cambiar los permisos a un archivo o directorio, el parámetro
+*+u* indica que los permisos de ejecución son asignados al *archivo.sh*
+
+Para ejecutar un script debemos situarnos en el directorio donde se ubica, para así 
+ejecutar el siguiente comando.
+
+```bash
+
+./nombre_script.sh
+
+```
+
 
 ### Comentarios en código   
         
