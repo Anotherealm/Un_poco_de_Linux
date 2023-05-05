@@ -17,8 +17,8 @@ se encuentran en los lenguajes de programación tradicionales.
 
 ### Crear un Bash Script
 
-Para crear un Bash Script primero debemos crear un archivo con formato *.sh*. El archivo puede 
-ser editado con cualquier editor de texto que se desee.
+Para crear un Bash Script primero debemos crear un archivo con formato *.sh*. Para esto, 
+puede ocuparse el editor de texto que se desee.
 
 Para iniciar, y respetando las buenas prácticas, se debe indicar la ruta completa del 
 intérprete de comandos, antecedido por los caracteres *#!*. Para bash la ruta absoluta 
