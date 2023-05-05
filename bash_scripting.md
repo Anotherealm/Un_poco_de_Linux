@@ -78,7 +78,7 @@ en un script de Bash
 echo "Hola Mundo"
 
 ```
-El script anterior solo tendrá como salida "Hola Mundo".
+Al ejecutar el script anterior solo se obtendrá la salida "Hola Mundo".
 
 
 
